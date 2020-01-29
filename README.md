@@ -10,4 +10,4 @@ Korišten je obrazac Model View Presenter i Room za spremanje podataka lokalno u
 Za prikaz nekretnina u listi korišten je ListView i CardView.</br>
 
 ### Screenshots
-![](screenshot.png)&nbsp;&nbsp;&nbsp;&nbsp;![](screenshot2.png)
+![](Screenshot.png)&nbsp;&nbsp;&nbsp;&nbsp;![](Screenshot2.png)

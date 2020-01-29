@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Nekretnine</string>
+    <string name="id">Id</string>
+    <string name="date">Date</string>
+    <string name="type">Type</string>
+    <string name="town">Town</string>
+    <string name="address">Address</string>
+    <string name="desc">Description</string>
+    <string name="edit_nekretnina">Save</string>
+    <string name="del_nekretnina">Delete</string>
+    <string name="take_photo">Take photo</string>
+    <string name="back">Back</string>
+
+    <string-array name="type_array">
+        <item>Apartman</item>
+        <item>Stan</item>
+        <item>Kuća</item>
+        <item>Zemljište</item>
+    </string-array>
+</resources>
